@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "YOUR NAME",
+  "author": "Owen Johnson",
   "license": "MIT",
   "devDependencies": {
     "mocha": "^8.2.1"
